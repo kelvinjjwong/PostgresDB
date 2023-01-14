@@ -1,3 +1,2 @@
 # PostgresDB
-
-A description of this package.
+Experimental codable dialet for PostgreSQL based on PostgresClientKit
